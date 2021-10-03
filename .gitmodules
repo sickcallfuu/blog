@@ -1,0 +1,4 @@
+[submodule "sickcallfuu/public"]
+	path = sickcallfuu/public
+	url = https://github.com/sickcallfuu/sickcallfuu.github.io.git
+	branch = main
